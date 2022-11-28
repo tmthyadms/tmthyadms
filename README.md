@@ -4,4 +4,3 @@
 - 🕸️ interested in web dev.
 - 🤩 currently learning _Node.js_ & _Flutter_
 - 📫 contact via the provided email or [LinkedIn](https://www.linkedin.com/in/timothyadamsjenuil/)
-
