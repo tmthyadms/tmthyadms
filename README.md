@@ -27,4 +27,4 @@
 + PowerShell Core (yes, ik) & WSL -- Ubuntu -- user
 + Interested in `<web></dev>`
 + I used to _speedcube_ (PB: 8.68s, 2018)
-+ Hit me up via e-mail or [LinkedIn](www.linkedin.com/in/tmthyadms)
++ Hit me up via e-mail or [LinkedIn](https://www.linkedin.com/in/tmthyadms/)
