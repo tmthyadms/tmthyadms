@@ -26,5 +26,5 @@
 + 2nd-year CS student
 + Interested in `<web></dev>`
 + PowerShell Core (yes, ik) & WSL user
-+ I used to _speedcubing_ (PB: 8.68s, 2018)
++ I used to _speedcube_ (PB: 8.68s, 2018)
 + Hit me up via e-mail or [LinkedIn](https://www.linkedin.com/in/timothyadamsjenuil/)
