@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VictorMono+NF&weight=500&size=25&duration=1500&pause=1000&color=FFD23F&multiline=true&width=500&height=50&lines=Timothy+%22team33s%22+Adams+Jenuil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VictorMono+NF&weight=500&size=25&duration=2000&pause=1000&color=FFD23F&multiline=true&width=500&height=50&lines=Timothy+%22team33s%22+Adams+Jenuil)](https://git.io/typing-svg)
 #### Currently ⏳
 + _Flutter_-ing & _Arduino_-ing
 ---
@@ -27,6 +27,8 @@
 #### Me, Myself & I 🧑
 + Timothy "team33s" Adams Jenuil
 + 3rd-year CS student 
-+ Interested in `mobile app dev` & `<web></dev>`
++ Interested in
+    1. `mobileAppDev: const MobileAppDev()`
+    2. `<web></dev>`
 + I used to _speedcube_ -- 8.68s (2018)
 + Connect with me via e-mail or [LinkedIn](https://www.linkedin.com/in/tmthyadms/) 👀
