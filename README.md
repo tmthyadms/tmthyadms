@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dank+Mono&pause=1000&color=E6B400&width=435&lines=Greetings!)](https://git.io/typing-svg)
-##### WHAT I'M CURRENTLY DOING
-+ _Flutter_-ing
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VictorMono+NF&weight=500&size=25&duration=1500&pause=1000&color=FFD23F&multiline=true&width=500&height=50&lines=Timothy+%22team33s%22+Adams+Jenuil)](https://git.io/typing-svg)
+#### Currently ⏳
++ _Flutter_-ing & _Arduino_-ing
 ---
-##### TECHS THAT I USED
+#### Technologies ⚙️
 ###### Main
 <img alt="HTML5" align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img alt="CSS3" align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -24,9 +24,9 @@
 + PowerShell Core
 + WSL (Ubuntu)
 ---
-##### ABOUT ME
+#### Me, Myself & I 🧑
 + Timothy "team33s" Adams Jenuil
 + 3rd-year CS student 
 + Interested in `mobile app dev` & `<web></dev>`
 + I used to _speedcube_ -- 8.68s (2018)
-+ Hit me up via e-mail or [LinkedIn](https://www.linkedin.com/in/tmthyadms/)
++ Connect with me via e-mail or [LinkedIn](https://www.linkedin.com/in/tmthyadms/) 👀
