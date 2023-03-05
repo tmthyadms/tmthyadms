@@ -25,7 +25,6 @@
 + WSL (Ubuntu)
 ---
 #### Me, Myself & I 🧑
-+ Timothy "team33s" Adams Jenuil
 + 3rd-year CS student 
 + Interested in
     1. `mobileAppDev: const MobileAppDev()`
