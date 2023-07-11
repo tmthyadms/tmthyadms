@@ -1,15 +1,13 @@
 <div align="center">
-    <img alt="Timothy team33s Adams Jenuil" src="https://github.com/tmthyadms/tmthyadms/assets/72775553/96c2938a-6141-42cb-ac48-d55994ea31b9" />
+    <img alt="Timothy &quot;team33s&quot; Adams Jenuil" src="https://github.com/tmthyadms/tmthyadms/assets/72775553/d929c76c-5a5a-4cf5-b920-6f79f85c4dc1" />
 </div>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=300&color=A4133C&center=true&vCenter=true&width=570&lines=3rd-year+CS+student;Looking+for+a+6-month+internship+opportunity!" alt="Typing SVG" style="max-width: 100%"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=300&color=246a73&center=true&vCenter=true&width=570&lines=3rd-year+CS+student;Looking+for+a+6-month+internship+opportunity!" alt="Typing SVG" style="max-width: 100%"/>
     </a>
 </div>
 
-* 3rd-year CS student
-* Looking for a 6-month internship opportunity!
 * Interested in `<web></dev>` and `mobileAppDev: const MobileAppDev()`
 * LinkedIn: [tmthyadms](linkedin.com/in/tmthyadms)
 
