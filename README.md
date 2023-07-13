@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=300&color=246a73&center=true&vCenter=true&width=705&lines=Final+year+CS+(Bach.)+student;Looking+for+a+6-month+internship+opportunity!" alt="Typing SVG" style="max-width: 100%"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=300&color=246a73&center=true&vCenter=true&width=705&lines=Final+year+CS+(Bach.)+student;Looking+for+a+6-month+internship+opportunity!" alt="Typing SVG" style="max-width: 100%" />
   </a>
 </div>
 
@@ -63,5 +63,9 @@
 <br />
 
 <div align="center">
-  <img alt="If you're an employer reading this, please hire me!!1" src="https://img.devrant.com/devrant/rant/r_1891126_B7SFP.jpg">
+  <img alt="Contribution Snake" src="https://github.com/tmthyadms/tmthyadms/blob/output/github-contribution-grid-snake.svg" />
+</div>
+
+<div align="center">
+  <img alt="If you're an employer reading this, please hire me!!1" src="https://img.devrant.com/devrant/rant/r_1891126_B7SFP.jpg" />
 </div>
