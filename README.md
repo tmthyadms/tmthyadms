@@ -60,3 +60,8 @@
 ## 🎨 Personal Interests
 * Sudoku
 * Speedcube — 3x3 (Valk 3 stickerless), 8.68s (2018)
+<br />
+
+<div align="center">
+  <img alt="If you're an employer reading this, please hire me!!1" src="https://img.devrant.com/devrant/rant/r_1891126_B7SFP.jpg">
+</div>
