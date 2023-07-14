@@ -37,7 +37,8 @@
 <img alt="Vim" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <br />
 <br />
-<p>Dart &bull; C++ &bull; C# (Arduino & Unity) &bull; Bash &bull; Vim &bull; Visual Basic &bull; PowerShell &bull; Zsh</p>
+<p>Dart &bull; C++ &bull; C# (Arduino & Unity) &bull; Bash &bull; Vim</p>
+<p>Visual Basic &bull; PowerShell &bull; Zsh</p>
 
 ### Technologies:
 <img alt="Flutter" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
