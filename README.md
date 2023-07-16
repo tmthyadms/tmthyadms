@@ -12,9 +12,8 @@
 * LinkedIn: [tmthyadms](linkedin.com/in/tmthyadms)
 
 ## 🌟 Featured Projects
-1. [LockNRoll](https://github.com/tmthyadms/locknroll) - smart door lock mobile app with remote control, image capture, alarms, and doorbell notifications.
-2. [E-Exam Monitoring]() (wip) -  simple online proctoring solution that ensures exam integrity during remote assessments.
-3. [Fingerprint Attendance Manager]() (wip) - simple attendance tracking with a fingerpirnt scanning.
+* [LockNRoll](https://github.com/tmthyadms/locknroll) - smart door lock mobile app with remote control, image capture, alarms, and doorbell notifications.
+
 
 ## 🚀 Skills
 ### Programming:
