@@ -12,7 +12,8 @@
 * LinkedIn: [tmthyadms](linkedin.com/in/tmthyadms)
 
 ## 🌟 Featured Projects
-* [LockNRoll](https://github.com/tmthyadms/locknroll) - smart door lock mobile app with remote control, image capture, alarms, and doorbell notifications.
+1. [LockNRoll](https://github.com/tmthyadms/locknroll) - smart door lock remote control mobile app
+2. [Sentinel](https://github.com.tmthyadms/sentinel) (wip) - simple AI-powered virtual exam website
 
 
 ## 🚀 Skills
