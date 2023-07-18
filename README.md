@@ -13,7 +13,7 @@
 
 ## 🌟 Featured Projects
 1. [LockNRoll](https://github.com/tmthyadms/locknroll) - smart door lock remote control mobile app
-2. [Sentinel](https://github.com.tmthyadms/sentinel) (wip) - simple AI-powered virtual exam website
+2. [Sentinel](https://github.com/tmthyadms/sentinel) (wip) - simple AI-powered virtual exam website
 
 
 ## 🚀 Skills
