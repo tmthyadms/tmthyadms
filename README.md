@@ -9,7 +9,7 @@
 </div>
 
 * Interested in `<web></dev>` and `mobileAppDev: const MobileAppDev()`
-* LinkedIn: [tmthyadms](linkedin.com/in/tmthyadms)
+* LinkedIn: [tmthyadms](https://linkedin.com/in/tmthyadms)
 
 ## 🌟 Featured Projects
 1. [LockNRoll](https://github.com/tmthyadms/locknroll) - smart door lock remote control mobile app
