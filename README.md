@@ -1,10 +1,12 @@
 <div align="center">
-  <img alt="Timothy &quot;team33s&quot; Adams Jenuil" src="https://github.com/tmthyadms/tmthyadms/assets/72775553/d929c76c-5a5a-4cf5-b920-6f79f85c4dc1" />
+  <img alt="Timothy &quot;team33s&quot; Adams Jenuil" src="https://github.com/tmthyadms/tmthyadms/assets/72775553/28a76098-ac40-41c1-83ca-7658056c3303" />
 </div>
+
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=300&color=246a73&center=true&vCenter=true&width=705&lines=Final+year+CS+(Bach.)+student;Looking+for+a+6-month+internship+opportunity!" alt="Typing SVG" style="max-width: 100%" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=FiraCode+Nerd+Font&duration=3000&pause=300&color=246a73&center=true&vCenter=true&width=705&lines=Final+year+CS+(Bach.)+student;Looking+for+a+6-month+internship+opportunity!" alt="Typing SVG" style="max-width: 100%" />
   </a>
 </div>
 
