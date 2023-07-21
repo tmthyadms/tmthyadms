@@ -9,15 +9,19 @@
 </div>
 
 * Interested in `<web></dev>` and `mobileAppDev: const MobileAppDev()`
-* LinkedIn: [tmthyadms](https://linkedin.com/in/tmthyadms)
+* Connect with me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-139ddd?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tmthyadms/)
+[![Mail Badge](https://img.shields.io/badge/-mail-E94134?style=for-the-badge&labelColor=CC2D29&logo=gmail&logoColor=white)](mailto:timothyadamsjenuil@gmail.com)
+<br />
 
-## 🌟 Featured Projects
+### 🌟 Featured Projects
+#
 1. [LockNRoll](https://github.com/tmthyadms/locknroll) - smart door lock remote control mobile app
 2. [Sentinel](https://github.com/tmthyadms/sentinel) (wip) - simple AI-powered virtual exam website
+<br />
 
-
-## 🚀 Skills
-### Programming:
+### 🚀 Skills
+#
+#### Programming:
 ###### Comfortable:
 <img alt="HTML5" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img alt="CSS3" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -39,8 +43,9 @@
 <br />
 <p>Dart &bull; C++ &bull; C# (Arduino & Unity) &bull; Bash &bull; Vim</p>
 <p>Visual Basic &bull; PowerShell &bull; Zsh</p>
+<br />
 
-### Technologies:
+#### Technologies:
 <img alt="Flutter" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img alt="MySQL" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img alt="OpenCV" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
@@ -48,8 +53,9 @@
 <br />
 <br />
 <p>Flutter &bull; MySQL &bull; OpenCV &bull; Git</p>
+<br />
 
-### Operating Systems:
+#### Operating Systems:
 <img alt="Microsoft Windows" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 <img alt="Ubuntu (WSL)" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <img alt="macOS" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
@@ -57,17 +63,21 @@
 <br />
 <br />
 <p>Microsoft Windows &bull; Ubuntu (WSL) &bull; macOS &bull; openSUSE Leap</p>
+<br />
 
-## 🎨 Personal Interests
+### 🎨 Personal Interests
+#
 * Sudoku
 * Speedcube — 3x3 (Valk 3 stickerless), 8.68s (2018)
 <br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+<div align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tmthyadms/tmthyadms/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tmthyadms/tmthyadms/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tmthyadms/tmthyadms/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
 
 <div align="center">
   <img alt="If you're an employer reading this, please hire me!!1" src="https://img.devrant.com/devrant/rant/r_1891126_B7SFP.jpg" />
