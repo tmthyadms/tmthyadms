@@ -82,5 +82,5 @@
 </div>
 
 <div align="center">
-  <img alt="If you're an employer reading this, please hire me!!1" src="https://img.devrant.com/devrant/rant/r_1891126_B7SFP.jpg" />
+  <img alt="if (employer.read) employer.hire('tmthyadms');" src="https://img.devrant.com/devrant/rant/r_1891126_B7SFP.jpg" />
 </div>
