@@ -50,11 +50,12 @@
 #### Technologies:
 <img alt="Flutter" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img alt="MySQL" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img alt="Vue 3" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <img alt="OpenCV" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
 <img alt="Git" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
 <br />
-<p>Flutter &bull; MySQL &bull; OpenCV &bull; Git</p>
+<p>Flutter &bull; MySQL &bull; Vue 3 &bull; OpenCV &bull; Git</p>
 <br />
 
 #### Operating Systems:
