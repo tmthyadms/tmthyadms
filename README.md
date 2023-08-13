@@ -1,87 +1,77 @@
+<!-- Banner -->
+![Banner](https://github.com/tmthyadms/tmthyadms/assets/72775553/09789f39-4da9-4d22-98e9-e4ac13cd45e9)
+<hr />
+
+<!-- Featured projects -->
 <div align="center">
-  <img alt="Timothy &quot;team33s&quot; Adams Jenuil" src="https://github.com/tmthyadms/tmthyadms/assets/72775553/28a76098-ac40-41c1-83ca-7658056c3303" />
+  <h3>Featured Projects</h3>
+
+  [![Sentinel](https://github-readme-stats.vercel.app/api/pin/?username=tmthyadms&repo=sentinel&theme=tokyonight)](https://github.com/tmthyadms/sentinel)
+  [![LockNRoll](https://github-readme-stats.vercel.app/api/pin/?username=tmthyadms&repo=locknroll&theme=tokyonight)](https://github.com/tmthyadms/locknroll)
 </div>
+<h1></h1>
 
+<!-- Skills -->
+<div align="left">
+  <h3>Skills</h3>
+  <!-- Languages list -->
+  <details>
+    <summary>Languages</summary>
+    <h6>Comfortable</h6>
+    <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" /></a>
+    <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" /></a>
+    <a href="#"><img alt="JavaScript"src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
+    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" /></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/OpenJDK-FFFFFF.svg?style=for-the-badge&logo=OpenJDK&logoColor=black" /></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a>
+    <h6>Familiar</h6>
+    <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" /></a>
+    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" /></a>
+    <a href="#"><img alt="C# (Arduino and Unity)" src="https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white" /></a>
+    <a href="#"><img alt="Visual Basic" src="https://img.shields.io/badge/Visual%20Basic-512BD4.svg?style=for-the-badge&logo=Visual-Basic&logoColor=white" /></a>
+    <a href="#"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=PowerShell&logoColor=white" /></a>
+    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" /></a>
+    <!-- <a href="#"><img alt="Zsh" src="" /></a> -->
+    <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-019733.svg?style=for-the-badge&logo=Vim&logoColor=white" /></a>
+  </details>
 
+  <!-- Frameworks & libraries list -->
+  <details>
+    <summary>Frameworks & Libraries</summary>
+    <br />
+    <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /></a>
+    <a href="#"><img alt="Bootstrap 5" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" /></a>
+    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /></a>
+    <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /></a>
+  </details>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=FiraCode+Nerd+Font&duration=3000&pause=300&color=246a73&center=true&vCenter=true&width=705&lines=Final+year+CS+(Bach.)+student;Looking+for+a+6-month+internship+opportunity!" alt="Typing SVG" style="max-width: 100%" />
-  </a>
+  <!-- Databases list -->
+  <details>
+    <summary>Databases</summary>
+    <br />
+    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" /></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+    <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white" /></a>
+  </details>
+
+  <!-- OS list -->
+  <details>
+    <summary>Operating Systems</summary>
+    <br />
+    <a href="#"><img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=Windows-11&logoColor=white" /></a>
+    <a href="#"><img alt="macOS Ventura" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /></a>
+    <a href="#"><img alt="Ubuntu (WSL)" src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white" /></a>
+    <a href="#"><img alt="openSUSE Leap" src="https://img.shields.io/badge/openSUSE-73BA25.svg?style=for-the-badge&logo=openSUSE&logoColor=white" /></a>
+  </details>
 </div>
+<h1></h1>
 
-* Interested in `<web></dev>` and `mobileAppDev: const MobileAppDev()`
-* Connect with me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-139ddd?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tmthyadms/)
-[![Mail Badge](https://img.shields.io/badge/-mail-E94134?style=for-the-badge&labelColor=CC2D29&logo=gmail&logoColor=white)](mailto:timothyadamsjenuil@gmail.com)
-<br />
-
-### 🌟 Featured Projects
-#
-1. [LockNRoll](https://github.com/tmthyadms/locknroll) - smart door lock remote control mobile app
-2. [Sentinel](https://github.com/tmthyadms/sentinel) (wip) - simple AI-powered virtual exam website
-<br />
-
-### 🚀 Skills
-#
-#### Programming:
-###### Comfortable:
-<img alt="HTML5" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img alt="CSS3" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img alt="JavaScript" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img alt="PHP" align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img alt="Java" align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img alt="Python" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<br />
-<br />
-<p>HTML5 &bull; CSS3 &bull; JavaScript &bull; PHP &bull; Java &bull; Python</p>
-
-###### Familiar:
-<img alt="Dart" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-<img alt="C++" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img alt="C#" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img alt="Bash" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img alt="Vim" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-<br />
-<br />
-<p>Dart &bull; C++ &bull; C# (Arduino & Unity) &bull; Bash &bull; Vim</p>
-<p>Visual Basic &bull; PowerShell &bull; Zsh</p>
-<br />
-
-#### Technologies:
-<img alt="Flutter" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img alt="MySQL" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img alt="Vue 3" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img alt="OpenCV" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
-<img alt="Git" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<br />
-<br />
-<p>Flutter &bull; MySQL &bull; Vue 3 &bull; OpenCV &bull; Git</p>
-<br />
-
-#### Operating Systems:
-<img alt="Microsoft Windows" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-<img alt="Ubuntu (WSL)" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-<img alt="macOS" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
-<img alt="openSUSE Leap" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original.svg" />
-<br />
-<br />
-<p>Microsoft Windows &bull; Ubuntu (WSL) &bull; macOS &bull; openSUSE Leap</p>
-<br />
-
-### 🎨 Personal Interests
-#
-* Sudoku
-* Speedcube — 3x3 (Valk 3 stickerless), 8.68s (2018)
-<br />
-
+<!-- Misc -->
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tmthyadms/tmthyadms/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tmthyadms/tmthyadms/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tmthyadms/tmthyadms/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
-
-<div align="center">
-  <img alt="if (employer.read) employer.hire('tmthyadms');" src="https://img.devrant.com/devrant/rant/r_1891126_B7SFP.jpg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tmthyadms/tmthyadms/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tmthyadms/tmthyadms/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tmthyadms/tmthyadms/output/github-contribution-grid-snake.svg">
+  </picture>
+  <p><i>My Contributions</i></p>
 </div>
