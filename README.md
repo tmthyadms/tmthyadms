@@ -1,5 +1,7 @@
 <!-- Banner -->
-![Banner](https://github.com/tmthyadms/tmthyadms/assets/72775553/09789f39-4da9-4d22-98e9-e4ac13cd45e9)
+<!-- ![Banner](https://github.com/tmthyadms/tmthyadms/assets/72775553/09789f39-4da9-4d22-98e9-e4ac13cd45e9) -->
+
+<a href="#"><img alt="Banner" src="https://github.com/tmthyadms/tmthyadms/assets/72775553/09789f39-4da9-4d22-98e9-e4ac13cd45e9" /></a>
 <hr />
 
 <!-- Featured projects -->
