@@ -1,14 +1,8 @@
 <!-- Banner -->
-<!-- ![modern - normal](https://github.com/tmthyadms/tmthyadms/assets/72775553/f227c2a2-1d24-4b60-9139-0486ee53ad54) -->
-<!-- <a href="https://github.com/tmthyadms">
-  <img alt="Hi, I'm Timothy!" src="https://user-images.githubusercontent.com/72775553/260292900-f227c2a2-1d24-4b60-9139-0486ee53ad54.gif" />
-</a> -->
-
-
-![gh-profile-banner-modern](https://github.com/tmthyadms/tmthyadms/assets/72775553/ed689318-6657-4d30-8d64-b34761090e27)
-
+<a href="https://github.com/tmthyadms">
+    <img alt="Hi, I'm Timothy!" src="https://user-images.githubusercontent.com/72775553/260294420-183a1cd9-9823-4263-b49f-1f723d77f811.gif" />
+</a>
 <hr />
-
 
 <!-- Featured projects -->
 <div align="center">
