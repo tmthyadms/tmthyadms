@@ -1,9 +1,10 @@
 <!-- Banner -->
-<!-- ![normal](https://github.com/tmthyadms/tmthyadms/assets/72775553/839c4755-00c2-4666-b7b9-6ad8d6fa642d) -->
+<!-- ![modern - normal](https://github.com/tmthyadms/tmthyadms/assets/72775553/f227c2a2-1d24-4b60-9139-0486ee53ad54) -->
 <a href="https://github.com/tmthyadms">
-  <img alt="Greetings, I'm Timothy!" src="https://user-images.githubusercontent.com/72775553/260286777-839c4755-00c2-4666-b7b9-6ad8d6fa642d.gif" />
+  <img alt="Hi, I'm Timothy!" src="https://user-images.githubusercontent.com/72775553/260292900-f227c2a2-1d24-4b60-9139-0486ee53ad54.gif" />
 </a>
 <hr />
+
 
 <!-- Featured projects -->
 <div align="center">
@@ -57,6 +58,18 @@
     <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" /></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
     <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white" /></a>
+  </details>
+
+  <!-- Tools list -->
+  <details>
+    <summary>Tools</summary>
+    <br />
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" /></a>
+    <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" /></a>
+    <a href="#"><img alt="Arduino IDE" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" /></a>
+    <a href="#"><img alt="GIMP" src="https://img.shields.io/badge/GIMP-5C5543.svg?style=for-the-badge&logo=GIMP&logoColor=white" /></a>
+    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black" /></a>
+    <a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white" /></a>
   </details>
 
   <!-- OS list -->
