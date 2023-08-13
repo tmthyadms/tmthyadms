@@ -1,12 +1,13 @@
 <!-- Banner -->
 <!-- ![Banner](https://github.com/tmthyadms/tmthyadms/assets/72775553/09789f39-4da9-4d22-98e9-e4ac13cd45e9) -->
-<a href="https://github.com/tmthyadms"><img alt="Greetings, I'm Timothy!" src="https://github.com/tmthyadms/tmthyadms/assets/72775553/09789f39-4da9-4d22-98e9-e4ac13cd45e9" /></a>
+<!-- <img alt="" src="https://github.com/tmthyadms/tmthyadms/assets/72775553/09789f39-4da9-4d22-98e9-e4ac13cd45e9" /> -->
+<a href="https://github.com/tmthyadms"><img alt="Greetings, I'm Timothy!" src="https://user-images.githubusercontent.com/72775553/260279345-09789f39-4da9-4d22-98e9-e4ac13cd45e9.gif" /></a>
 <hr />
 
 <!-- Featured projects -->
 <div align="center">
   <h3>Featured Projects</h3>
-
+  <!-- Repo card: https://github.com/anuraghazra/github-readme-stats -->
   [![Sentinel](https://github-readme-stats.vercel.app/api/pin/?username=tmthyadms&repo=sentinel&theme=tokyonight)](https://github.com/tmthyadms/sentinel)
   [![LockNRoll](https://github-readme-stats.vercel.app/api/pin/?username=tmthyadms&repo=locknroll&theme=tokyonight)](https://github.com/tmthyadms/locknroll)
 </div>
@@ -19,6 +20,7 @@
   <details>
     <summary>Languages</summary>
     <h6>Comfortable</h6>
+    <!-- Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile, https://home.aveek.io/GitHub-Profile-Badges/  -->
     <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" /></a>
     <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" /></a>
     <a href="#"><img alt="JavaScript"src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
@@ -69,6 +71,7 @@
 
 <!-- Misc -->
 <div align="center">
+  <!-- Snake game from user's contribution: https://github.com/Platane/snk -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tmthyadms/tmthyadms/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tmthyadms/tmthyadms/output/github-contribution-grid-snake.svg">
