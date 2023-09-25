@@ -1,4 +1,4 @@
-t<!-- Banner -->
+<!-- Banner -->
 <a href="https://github.com/tmthyadms">
     <img alt="Hi, I'm Timothy!" src="https://user-images.githubusercontent.com/72775553/260294420-183a1cd9-9823-4263-b49f-1f723d77f811.gif" />
 </a>
