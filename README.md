@@ -9,8 +9,8 @@
   <!--   <h3>Featured Projects</h3> -->
   <!-- Repo card: https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="#"><img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tmthyadms&theme=transparent&hide_title=true&show_icons=true&rank_icon=github"/></a>
-  <a href="#"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmthyadms&theme=transparent&layout=compact"/></a>
+  <a href="#"><img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tmthyadms&theme=tokyonight&hide_title=true&show_icons=true&hide_rank=true&hide_border=true"/></a>
+  <a href="#"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmthyadms&theme=tokyonight&layout=compact&hide_border=true"/></a>
 </div>
 <h1></h1>
 
