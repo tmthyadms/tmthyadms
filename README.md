@@ -6,12 +6,11 @@
 
 <!-- Featured projects -->
 <div align="center">
-  <h3>Featured Projects</h3>
+  <!--   <h3>Featured Projects</h3> -->
   <!-- Repo card: https://github.com/anuraghazra/github-readme-stats -->
 
-  [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=tmthyadms&repo=portfolio&theme=tokyonight)](https://github.com/tmthyadms/portfolio)
-  [![Sentinel](https://github-readme-stats.vercel.app/api/pin/?username=tmthyadms&repo=sentinel&theme=tokyonight)](https://github.com/tmthyadms/sentinel)
-  [![LockNRoll](https://github-readme-stats.vercel.app/api/pin/?username=tmthyadms&repo=locknroll&theme=tokyonight)](https://github.com/tmthyadms/locknroll)
+  <a href="#"><img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tmthyadms&theme=transparent&hide_title=true&show_icons=true&rank_icon=github"/></a>
+  <a href="#"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmthyadms&theme=transparent&layout=compact"/></a>
 </div>
 <h1></h1>
 
