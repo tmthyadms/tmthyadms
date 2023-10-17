@@ -8,7 +8,8 @@
 <div align="center">
   <h3>Featured Projects</h3>
   <!-- Repo card: https://github.com/anuraghazra/github-readme-stats -->
-  
+
+  [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=tmthyadms&repo=portfolio&theme=tokyonight)](https://github.com/tmthyadms/portfolio)
   [![Sentinel](https://github-readme-stats.vercel.app/api/pin/?username=tmthyadms&repo=sentinel&theme=tokyonight)](https://github.com/tmthyadms/sentinel)
   [![LockNRoll](https://github-readme-stats.vercel.app/api/pin/?username=tmthyadms&repo=locknroll&theme=tokyonight)](https://github.com/tmthyadms/locknroll)
 </div>
