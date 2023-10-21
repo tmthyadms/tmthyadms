@@ -1,12 +1,13 @@
 <!-- Banner -->
 <a href="https://github.com/tmthyadms">
-    <img alt="Hi, I'm Timothy!" src="https://user-images.githubusercontent.com/72775553/260294420-183a1cd9-9823-4263-b49f-1f723d77f811.gif" />
+  <img alt="Hi, I'm Timothy!" src="https://user-images.githubusercontent.com/72775553/260294420-183a1cd9-9823-4263-b49f-1f723d77f811.gif" />
 </a>
 <hr />
 
 <!-- Stats -->
 <div align="center">
   <!-- Repo card: https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Personal stats -->
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=tmthyadms&theme=tokyonight&hide_title=true&show_icons=true&hide_rank=true&hide_border=true"
@@ -18,6 +19,7 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=tmthyadms&hide_title=trueshow_icons=true&hide_rank=true&hide_border=true" />
   </picture>
+  <!--   Top langs -->
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tmthyadms&theme=tokyonight&layout=compact&hide_border=true"
@@ -56,7 +58,6 @@
     <!-- <a href="#"><img alt="Zsh" src="" /></a> -->
     <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-019733.svg?style=for-the-badge&logo=Vim&logoColor=white" /></a>
   </details>
-
   <!-- Frameworks & libraries list -->
   <details>
     <summary>Frameworks & Libraries</summary>
@@ -69,7 +70,6 @@
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /></a>
   </details>
-
   <!-- Databases list -->
   <details>
     <summary>Databases</summary>
@@ -78,7 +78,6 @@
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
     <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white" /></a>
   </details>
-
   <!-- Tools list -->
   <details>
     <summary>Tools</summary>
@@ -90,7 +89,6 @@
     <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black" /></a>
     <a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white" /></a>
   </details>
-
   <!-- OS list -->
   <details>
     <summary>Operating Systems</summary>
