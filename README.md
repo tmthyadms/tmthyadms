@@ -51,7 +51,7 @@
     <h6>Familiar</h6>
     <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" /></a>
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" /></a>
-    <a href="#"><img alt="C# (Arduino and Unity)" src="https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white" /></a>
+    <a href="#"><img alt="C# (Arduino, Unity)" src="https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white" /></a>
     <a href="#"><img alt="Visual Basic" src="https://img.shields.io/badge/Visual%20Basic-512BD4.svg?style=for-the-badge&logo=Visual-Basic&logoColor=white" /></a>
     <a href="#"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=PowerShell&logoColor=white" /></a>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" /></a>
