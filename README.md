@@ -61,16 +61,21 @@
   </details>
   <!-- Frameworks & libraries list -->
   <details>
-    <summary>Frameworks & Libraries</summary>
+    <summary>Frameworks</summary>
     <br />
     <a href="#"><img alt="Nuxt" src="https://img.shields.io/badge/Nuxt.js-00DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white" /></a>
     <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /></a>
     <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" /></a>
-    <a href="#"><img alt="daisyUI" src="https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white" /></a>
     <a href="#"><img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33.svg?style=for-the-badge&logo=Playwright&logoColor=white" /></a>
     <a href="#"><img alt="Bootstrap 5" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" /></a>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" /></a>
+    <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white" /></a>
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /></a>
+  </details>
+    <details>
+    <summary>Libraries</summary>
+    <br />
+    <a href="#"><img alt="daisyUI" src="https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white" /></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /></a>
   </details>
   <!-- Databases list -->
