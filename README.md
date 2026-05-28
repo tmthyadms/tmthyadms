@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=32&duration=1000&pause=750&vCenter=true&width=64&height=32&lines=Tim)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=32&duration=1000&pause=750&vCenter=true&width=64&height=32&lines=tim)](https://git.io/typing-svg)
 > /tɪm/
 
-Just another software engineer...who enjoys Vim.
+just another software engineer...who enjoys Vim.
 
 <a href="https://www.linkedin.com/in/tmthyadms" target="_blank">linkedin</a>
 <a href="mailto:work@tmthyadms.com">email</a>
@@ -12,7 +12,7 @@ Just another software engineer...who enjoys Vim.
 <br />
 
 <details>
-  <summary>Web</summary>
+  <summary>web</summary>
   <h6>Main</h6>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" /></a>
   <a href="#"><img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=#00DC82" /></a>
@@ -29,7 +29,7 @@ Just another software engineer...who enjoys Vim.
 </details>
 
 <details>
-  <summary>Desktop</summary>
+  <summary>desktop</summary>
   <br />
   <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" /></a>
   <a href="#"><img alt="Visual Basic" src="https://img.shields.io/badge/Visual%20Basic-512BD4.svg?style=for-the-badge" /></a>
@@ -37,13 +37,13 @@ Just another software engineer...who enjoys Vim.
 </details>
 
 <details>
-  <summary>Mobile</summary>
+  <summary>mobile</summary>
   <br />
   <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /></a>
 </details>
 
 <details>
-  <summary>Databases</summary>
+  <summary>databases</summary>
   <br />
   <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white" /></a>
   <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" /></a>
@@ -52,7 +52,7 @@ Just another software engineer...who enjoys Vim.
 </details>
 
 <details>
-  <summary>Shell</summary>
+  <summary>shell</summary>
   <br />
   <a href="#"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" /></a>
   <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" /></a>
@@ -60,7 +60,7 @@ Just another software engineer...who enjoys Vim.
 </details>
 
 <details>
-  <summary>Operating Systems</summary>
+  <summary>operating systems</summary>
   <br />
   <a href="#"><img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" /></a>
   <a href="#"><img alt="macOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)" /></a>
@@ -68,7 +68,7 @@ Just another software engineer...who enjoys Vim.
 </details>
 
 <details>
-  <summary>Others</summary>
+  <summary>others</summary>
   <h6>Languages</h6>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
   <a href="#"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
